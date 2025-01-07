@@ -18,7 +18,7 @@ Skills: C/C++/ PYTHON / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnainshehab&show_icons=true)  
 
-<!--![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/hasnainshehab/contributions?format=svg&private=false) --> 
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/hasnainshehab/contributions?format=svg&private=false) 
 
 ![GitHub metrics](https://metrics.lecoq.io/hasnainshehab)  
 
